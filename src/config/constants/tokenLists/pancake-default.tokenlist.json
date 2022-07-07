@@ -1,0 +1,47 @@
+{
+  "name": "Canary Exchange Default List",
+  "timestamp": "2021-05-06T00:00:00Z",
+  "version": {
+    "major": 3,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://canarydex.netlify.app/logo.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    
+    {
+      "name": "Canary",
+      "symbol": "CANARY",
+      "address": "0xB2cD91b79df296ea181AA5f6d729E5136e1853A4",
+      "chainId": 19,
+      "decimals": 18,
+      "logoURI": "https://canarydex.netlify.app/images/tokens/0xB2cD91b79df296ea181AA5f6d729E5136e1853A4.png"
+    },
+    {
+      "name": "CanaryX",
+      "symbol": "CNYX",
+      "address": "0x8d32E20d119d936998575B4AAff66B9999011D27",
+      "chainId": 19,
+      "decimals": 18,
+      "logoURI": "https://canarydex.netlify.app/images/tokens/0x8d32E20d119d936998575B4AAff66B9999011D27.png"
+    },
+    {
+      "name": "Wrapped Songbird",
+      "symbol": "WSGB",
+      "address": "0x02f0826ef6aD107Cfc861152B32B52fD11BaB9ED",
+      "chainId": 19,
+      "decimals": 18,
+      "logoURI": "https://canarydex.netlify.app/images/tokens/0x02f0826ef6aD107Cfc861152B32B52fD11BaB9ED.png"
+    },
+    {
+      "name": "Canary Dollar",
+      "symbol": "CAND",
+      "address": "0x70ad7172ef0b131a1428d0c1f66457eb041f2176",
+      "chainId": 19,
+      "decimals": 18,
+      "logoURI": "https://canarydex.netlify.app/images/tokens/0x70ad7172ef0b131a1428d0c1f66457eb041f2176.png"
+    }
+  ]
+}
